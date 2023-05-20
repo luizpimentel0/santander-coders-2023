@@ -44,4 +44,4 @@ Arquivos prontos para serem commitados
 
 - git checkout _nome_da_branch_: muda de branch
 
-git merge: une uma branch a outra podendo haver conflitos entre elas.
+- git merge: une uma branch a outra podendo haver conflitos entre elas.
